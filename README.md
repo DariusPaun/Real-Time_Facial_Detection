@@ -13,9 +13,8 @@ This project is a real-time face recognition system implemented using Python and
 - Python >= 3.10
 - OpenCV
 - NumPy
-- TensorFlow or Keras (for deep learning-based face recognition)
-- (Optional) CUDA Toolkit and cuDNN for GPU acceleration
-
+- Keras (for deep learning-based face recognition)
+  
 ## Installation
 1. Clone this repository:
 2. Install dependencies:    pip install -r requirements.txt
