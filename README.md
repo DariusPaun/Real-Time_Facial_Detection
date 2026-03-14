@@ -10,7 +10,7 @@ This project is a real-time face recognition system implemented using Python and
 - Flexible dataset management for adding and removing faces.
 
 ## Requirements
-- Python 3.x
+- Python >= 3.10
 - OpenCV
 - NumPy
 - TensorFlow or Keras (for deep learning-based face recognition)
